@@ -1,6 +1,6 @@
-# Testes Automatizados com Robot Framework e Selenium
+# Testes Automatizados com Robot Framework
 
-Este repositório contém testes automatizados utilizando o framework Robot em conjunto com Selenium. Os testes foram desenvolvidos para validar o comportamento da página de login para garantir sua integridade e funcionalidade.
+Este repositório contém testes automatizados utilizando o Robot Framework em conjunto com Selenium. Os testes foram desenvolvidos para validar o comportamento da página de login para garantir sua integridade e funcionalidade.
 
 ## Requisitos
 
